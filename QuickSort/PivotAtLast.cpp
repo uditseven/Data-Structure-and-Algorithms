@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#include <stdio.h>
 using namespace std;
 
 void input_func(int ptr[], int n)
