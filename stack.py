@@ -19,7 +19,7 @@ class Stack:
 
 
 s=Stack()
-
+# print empty stack from stack memory
 print(s.isEmpty())
 s.push(4)
 s.push('dog')
